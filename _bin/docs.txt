@@ -1,0 +1,9 @@
+# data object
+
+DATA: defaultdict(list)
+
+DATA['source'] = domain_name
+DATA['desc'] = data_description
+DATA['url'] = url_requested
+DATA['headers'] = data_headers
+DATA['rows'] = [{data_header: data_row_item, ...}, ...]

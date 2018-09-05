@@ -1,0 +1,13 @@
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US;q=0.8,en;q=0.7
+Cache-Control: max-age=0
+Connection: keep-alive
+Content-Length: 62784
+Content-Type: application/x-www-form-urlencoded
+Cookie: fgadp=1
+Host: www.fangraphs.com
+Origin: https://www.fangraphs.com
+Referer: https://www.fangraphs.com/projections.aspx?pos=all&stats=bat&type=zips&team=0&lg=all&players=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36
